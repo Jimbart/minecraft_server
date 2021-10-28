@@ -1,15 +1,15 @@
 # This repository contains scripts for maintaining a Minecraft server running on Ubuntu
 
 ## Requirements:
-The scripts assume your directory structure is as follows:
-Base application directory:
-    /app/minecraft
-Application root directory:
-    /app/minecraft/server
-Backup directory:
-    /app/minecraft/backups
-Game updates download directory:
-    /app/minecraft/downloaded_updates
+The scripts assume your directory structure is as follows:  
+Base application directory:  
+    /app/minecraft  
+Application root directory:  
+    /app/minecraft/server  
+Backup directory:  
+    /app/minecraft/backups  
+Game updates download directory:  
+    /app/minecraft/downloaded_updates  
 
 ### All mainetnance scripts are stored in the Base Application directory and are executed from there.
 
