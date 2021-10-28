@@ -3,13 +3,13 @@
 ## Requirements:
 The scripts assume your directory structure is as follows:  
 Base application directory:  
-    /app/minecraft  
+    /app/minecraft_  
 Application root directory:  
-    /app/minecraft/server  
+    _/app/minecraft/server_  
 Backup directory:  
-    /app/minecraft/backups  
+    _/app/minecraft/backups_  
 Game updates download directory:  
-    /app/minecraft/downloaded_updates  
+    _/app/minecraft/downloaded_updates_  
 
 ### All mainetnance scripts are stored in the Base Application directory and are executed from there.
 
